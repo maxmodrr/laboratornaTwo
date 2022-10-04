@@ -34,7 +34,9 @@
 
 Хід роботи
 
-1. ![image](https://user-images.githubusercontent.com/95691048/193891293-d517753f-3bd1-4ddb-b175-2d2750ce893c.png)
+
+1.
+   ![image](https://user-images.githubusercontent.com/95691048/193891293-d517753f-3bd1-4ddb-b175-2d2750ce893c.png)
    ![image](https://user-images.githubusercontent.com/95691048/193891328-edc6399d-2b0d-4452-86c2-065fd9307a4f.png)
 
  
@@ -42,10 +44,12 @@
  
 
 2.
+
 ![image](https://user-images.githubusercontent.com/95691048/193891402-65a153f0-f621-424e-a0cf-2851fafbc224.png)
 
  
 3.
+
 ![image](https://user-images.githubusercontent.com/95691048/193891422-196bacdf-39b9-4411-9616-ce5ff72f0adb.png)
 
  
@@ -54,6 +58,7 @@
 
 
 
+4.
 
 ![image](https://user-images.githubusercontent.com/95691048/193891432-2cff5a0a-099a-4854-a421-6eaa7828b694.png)
 ![image](https://user-images.githubusercontent.com/95691048/193891446-99d178b4-fc51-461a-8c82-4184c88e83e6.png)
@@ -63,6 +68,7 @@
  
  
 5.
+
 ![image](https://user-images.githubusercontent.com/95691048/193892205-bde5149d-8f17-4d94-9a92-57b8dd3ee917.png)
 
 
