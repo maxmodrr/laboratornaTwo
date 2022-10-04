@@ -34,28 +34,38 @@
 
 Хід роботи
 
-1. 
+1. ![image](https://user-images.githubusercontent.com/95691048/193891293-d517753f-3bd1-4ddb-b175-2d2750ce893c.png)
+   ![image](https://user-images.githubusercontent.com/95691048/193891328-edc6399d-2b0d-4452-86c2-065fd9307a4f.png)
+
  
  
  
 
 2.
+![image](https://user-images.githubusercontent.com/95691048/193891402-65a153f0-f621-424e-a0cf-2851fafbc224.png)
+
  
 3.
+![image](https://user-images.githubusercontent.com/95691048/193891422-196bacdf-39b9-4411-9616-ce5ff72f0adb.png)
+
  
 
 
 
 
 
-4. 
+
+![image](https://user-images.githubusercontent.com/95691048/193891432-2cff5a0a-099a-4854-a421-6eaa7828b694.png)
+![image](https://user-images.githubusercontent.com/95691048/193891446-99d178b4-fc51-461a-8c82-4184c88e83e6.png)
+![image](https://user-images.githubusercontent.com/95691048/193891378-85943a7c-bb9d-40da-a3ec-0f5d86fae368.png)
+
  
  
  
 5.
 
 
-Висновки : виконавши дану лабораторну роботу, я ознайомився з основними командами для роботи з Git; на практиці застосував набуті знання, а  саме : навчився комітити, створювати репозиторій, пушити репозиторій та праюцювати з вітками. 
+Висновки : виконавши дану лабораторну роботу, я ознайомився з основними командами для роботи з Git; на практиці застосував набуті знання, а  саме : навчився комітити, створювати репозиторій, працювати з командами push, add, remote, checkout та праюцювати з вітками. 
 
 
 
