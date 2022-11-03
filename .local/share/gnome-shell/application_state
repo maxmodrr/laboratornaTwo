@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<application-state>
-  <context id="">
-    <application id="org.gnome.Nautilus.desktop" score="237" last-seen="1664899296"/>
-    <application id="org.gnome.Terminal.desktop" score="1155" last-seen="1664899296"/>
-    <application id="update-manager.desktop" score="4" last-seen="1664369839"/>
-  </context>
-</application-state>
