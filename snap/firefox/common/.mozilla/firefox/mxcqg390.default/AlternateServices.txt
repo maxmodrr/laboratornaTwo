@@ -1,2 +1,0 @@
-https:www.googletagmanager.com:443:.:^partitionKey=%28https%2Cubuntu.com%29:3	0	19254	https:www.googletagmanager.com:443:www.googletagmanager.com:443::n:1666200496:h3:y:1663608492:n:^partitionKey=%28https%2Cubuntu.com%29:|n:y:
-https:www.google-analytics.com:443:.:^partitionKey=%28https%2Cubuntu.com%29:3	0	19254	https:www.google-analytics.com:443:www.google-analytics.com:443::n:1666200497:h3:y:1663608492:n:^partitionKey=%28https%2Cubuntu.com%29:|n:y:
